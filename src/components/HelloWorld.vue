@@ -1,7 +1,7 @@
 <template>
   <div class="home">
     <p>aaaa</p>
-    <el-button type="primary" v-on:click="sss">主要按钮111111</el-button>
+    <el-button type="primary" v-on:click="sss">主要按钮dev1</el-button>
   </div>
 </template>
 
